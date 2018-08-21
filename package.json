@@ -1,0 +1,22 @@
+{
+  "name": "azure-websocket-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goriunov/azure-websocket-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goriunov/azure-websocket-test/issues"
+  },
+  "homepage": "https://github.com/goriunov/azure-websocket-test#readme",
+  "dependencies": {
+    "clusterws-uws": "0.0.9"
+  }
+}
