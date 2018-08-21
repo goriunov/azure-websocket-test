@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/goriunov/azure-websocket-test#readme",
   "dependencies": {
-    "clusterws-uws": "0.0.9",
+    "clusterws-uws": "0.0.9-x86",
     "uws": "10.148.1"
   }
 }
